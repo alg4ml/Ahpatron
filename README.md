@@ -2,7 +2,7 @@ Source codes of algorithms and datasets for our paper "Ahpatron: A New Budgeted 
 
 We implement all algorithms with R on a Windows machine with 2.8 GHz Core(TM) i7-1165G7 CPU. execute each experiment 10 times with random permutation of all datasets and average all of the results.
 
-To run the code, you must set the paths following the code, or set new paths. The default path of codes is "D:/experiment/Conference Paper/AAAI/AAAI2024". The path of datasets is "D:/experiment/AAAI2023/dataset". The store path is "D:/experiment/AAAI2023/Result/".
+To run the code, you must set the paths following the code, or set new paths. The default path of codes is "D:/experiment/AAAI/AAAI2024/code". The path of datasets is "D:/experiment/AAAI/AAAI2024/dataset". The store path is "D:/experiment/AAAI/AAAI2024/Result/".
 
 The baseline algorithms include: Projectron, Projectron++, FOGD, BOGD++, NOGD and POMDR. Our algorithm is Ahpatron.
 
